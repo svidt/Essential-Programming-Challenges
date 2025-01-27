@@ -1,7 +1,5 @@
 # Essential Programming Challenges - Swift
 
-This repository contains a curated list of 30 essential programming challenges that can be applied to any programming language. The challenges are organized into three tiers: Foundational, Intermediate, and Advanced, ensuring steady progression while covering the most impactful algorithms, concepts, and real-world use cases.
-
 ---
 
 ## Foundational Challenges (Beginner)
